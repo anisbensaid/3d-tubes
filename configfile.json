@@ -1,0 +1,31 @@
+{
+   "Name":"Tubes",
+   "length":50,
+   "length_X":100,
+   "length_Y":100,
+   "length_Z":100,
+   "Number of Tubes": 6,
+
+   "Labels":[
+      {
+         "background":0,
+         "wall":255,
+         "air":20,
+         "holder":222
+      }
+   ],
+
+   "TubeHolder": [
+      {
+         "xc1": 0,
+         "yc1": 25,
+         "zc1": 0
+      },
+      {
+         "xc2": 20,
+         "yc2": 75,
+         "zc2": 200
+      }
+
+   ]
+}
